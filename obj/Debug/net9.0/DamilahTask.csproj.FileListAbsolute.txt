@@ -1,0 +1,14 @@
+D:\CodeProjects\c#\DamilahTask\bin\Debug\net9.0\DamilahTask.exe
+D:\CodeProjects\c#\DamilahTask\bin\Debug\net9.0\DamilahTask.deps.json
+D:\CodeProjects\c#\DamilahTask\bin\Debug\net9.0\DamilahTask.runtimeconfig.json
+D:\CodeProjects\c#\DamilahTask\bin\Debug\net9.0\DamilahTask.dll
+D:\CodeProjects\c#\DamilahTask\bin\Debug\net9.0\DamilahTask.pdb
+D:\CodeProjects\c#\DamilahTask\obj\Debug\net9.0\DamilahTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeProjects\c#\DamilahTask\obj\Debug\net9.0\DamilahTask.AssemblyInfoInputs.cache
+D:\CodeProjects\c#\DamilahTask\obj\Debug\net9.0\DamilahTask.AssemblyInfo.cs
+D:\CodeProjects\c#\DamilahTask\obj\Debug\net9.0\DamilahTask.csproj.CoreCompileInputs.cache
+D:\CodeProjects\c#\DamilahTask\obj\Debug\net9.0\DamilahTask.dll
+D:\CodeProjects\c#\DamilahTask\obj\Debug\net9.0\refint\DamilahTask.dll
+D:\CodeProjects\c#\DamilahTask\obj\Debug\net9.0\DamilahTask.pdb
+D:\CodeProjects\c#\DamilahTask\obj\Debug\net9.0\DamilahTask.genruntimeconfig.cache
+D:\CodeProjects\c#\DamilahTask\obj\Debug\net9.0\ref\DamilahTask.dll

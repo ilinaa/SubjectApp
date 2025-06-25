@@ -1,0 +1,10 @@
+version: "3.9"
+
+services:
+  subjectapp:
+    build: .
+    stdin_open: true
+    container_name: subjectapp_container
+    volumes:
+      - ./subjects.json:/app/subjects.json
+    tty: true

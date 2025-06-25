@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "Name": "Mathematics",
+    "Description": "Study of numbers, shapes, and patterns.",
+    "NumberOfWeeklyClasses": 5,
+    "Literature": [
+      "Introduction to Algebra",
+      "Calculus Made Easy",
+      "Geometry Essentials"
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Physics",
+    "Description": "Study of matter, energy, and forces.",
+    "NumberOfWeeklyClasses": 4,
+    "Literature": [
+      "Classical Mechanics",
+      "Quantum Physics Basics"
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "Literature",
+    "Description": "Exploring classic and modern written works.",
+    "NumberOfWeeklyClasses": 3,
+    "Literature": [
+      "Shakespeare's Plays",
+      "Modern Poetry",
+      "World Novels"
+    ]
+  }
+]
